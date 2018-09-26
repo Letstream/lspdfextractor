@@ -1,6 +1,7 @@
 # PDF Data Extraction using Python and Selenium
 
-Author: Ayush Agarwal (@thisisayush), Letstream
+**Author:** Ayush Agarwal (@thisisayush), Letstream
+**License:** GNU General Public License V3
 
 ## Features
 
@@ -25,4 +26,4 @@ Import the ```Extractor``` class and initialise it with following parameters
 - headless: Default (True), whether to run in a PyVirtualDisplay or Normal Mode.
 
 
-Letstream.
+&copy; Letstream | All Rights Reserved.
