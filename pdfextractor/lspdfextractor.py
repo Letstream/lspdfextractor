@@ -187,3 +187,6 @@ class Extractor(object):
     
     def close(self):
         self.close_driver()
+
+    def __del__(self):
+        self.close()
